@@ -32,5 +32,4 @@ elif calculate_change != 0:
     print(counter_n, 'nickels')     
       
 if calculate_change != 0:        
-    print(calculate_change, 'pennies')  
-    
+    print(calculate_change, 'pennies')
